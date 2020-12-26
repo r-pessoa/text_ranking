@@ -1,2 +1,2 @@
 # text_ranking
-Algorithm for processing subtitles and rank them according to complexity
+Algorithm for processing subtitles and ranking them according to complexity.
